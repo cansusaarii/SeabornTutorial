@@ -2,7 +2,7 @@
 
 Histograms
 
-Kernell Density Estimate Plots
+Kernel Density Estimate Plots
 
 Combining Plot Styles
 
